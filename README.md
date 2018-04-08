@@ -5,3 +5,6 @@ Use case modelling and execution for text mining and analytics
 >> Text Analytics
     >> N-Gram Tokenization
     >> Text Analytics and Modelling using Amazon and Google HR Data
+
+>> Sentiment Analytics
+    >> Sentiment analytics on airbnb reviews
