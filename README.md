@@ -8,3 +8,4 @@ Use case modelling and execution for text mining and analytics
 
 >> Sentiment Analytics
     >> Sentiment analytics on airbnb reviews
+    >> Sentiment analytics on crowd-sourced datasets
