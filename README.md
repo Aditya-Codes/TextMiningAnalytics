@@ -1,18 +1,24 @@
 <h1> Use case modelling and execution for text mining and analytics </h1>
 
 <h3> Text Mining </h3>
-    <p> Text mining exploration with Twitter data </p>
+    <ul style="list-style-type:square">
+        <li> Text mining exploration with Twitter data </li>
+    </ul>
 
 <h3> Text Analytics </h3>
-    <p> N-Gram Tokenization </p>
-    <p> Text Analytics and Modelling using Amazon and Google HR Data </p>
-    <p> Text, Sentiment Analytics for Donald Trump and Hillary Clinton election speech </p>
+    <ul style="list-style-type:square">
+        <li> N-Gram Tokenization </li>
+        <li> Text Analytics and Modelling using Amazon and Google HR Data </li>
+        <li> Text, Sentiment Analytics for Donald Trump and Hillary Clinton election speech </li>
+    </ul>
 
 <h3> Sentiment Analyis</h3>
-    <p> Sentiment analytics on airbnb reviews </p>
-    <p> Sentimenent Analytics using publicly available datasets </p>
+    <ul style="list-style-type:square">
+        <li> Sentiment analytics on airbnb reviews </li>
+        <li> Sentimenent Analytics using publicly available datasets </li>
+    </ul>
 
 <hr/>
 <h4> ReadMe last updated on </h4>
-    <p> April 2, 2018 </p>
+    <li> April 2, 2018 </li>
 <hr/>
