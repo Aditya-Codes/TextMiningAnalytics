@@ -105,5 +105,6 @@ Temporary Items
 .apdisk
 .vagrant
 
-#Jupyter Notebook
+#Jupyter Notebooks
 .ipynb_checkpoints
+.ipynb_checkpoints/
