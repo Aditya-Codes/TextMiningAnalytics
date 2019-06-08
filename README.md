@@ -19,6 +19,6 @@
     </ul>
 
 <hr/>
-<h4> ReadMe last updated on </h4>
+<h4> This ReadMe version was last updated on </h4>
     <li> April 2, 2018 </li>
 <hr/>
